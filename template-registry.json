@@ -1,0 +1,12 @@
+{
+  "poster-v1": {
+    "templateUrl": "./templates/poster-v1/template.img",
+    "map": {
+      "slots": [
+        { "name": "PosterA", "left": 312, "top": 184, "width": 1024, "height": 768, "fit": "cover" },
+        { "name": "PosterB", "left": 1980, "top": 220, "width": 640, "height": 640, "fit": "contain", "background": "#ffffff00" }
+      ],
+      "output": { "format": "png", "quality": 90 }
+    }
+  }
+}
