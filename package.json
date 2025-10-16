@@ -1,0 +1,15 @@
+{
+  "name": "image-compositor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "NODE_ENV=development node src/index.js",
+    "start": "NODE_ENV=production node src/index.js",
+    "build": "echo \"build step not required\"",
+    "lint": "echo \"lint step placeholder\"",
+    "test": "node --test"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
